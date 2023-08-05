@@ -7,8 +7,7 @@
   ],
   "scripts": {
     "native": "yarn workspace otp start",
-    "server": "yarn workspace resend dev",
-    "run-all": "yarn native && yarn server"
+    "server": "yarn workspace resend dev"
   },
   "private": true
 }
